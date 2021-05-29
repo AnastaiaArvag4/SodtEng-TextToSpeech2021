@@ -1,2 +1,2 @@
-# SodtEng-TextToSpeech2021
+# SoftEng-TextToSpeech2021
 This is a video demo of our project in Software Engineering class 
